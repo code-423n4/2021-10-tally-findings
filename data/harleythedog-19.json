@@ -1,0 +1,9 @@
+{
+  "contest": "Tally contest",
+  "handle": "harleythedog",
+  "address": "0xeFBFe9c6a66d871175d2B0ab35bc00255Aa36298",
+  "risk": "G",
+  "title": "Emit feeRecipient_ (memory) instead of feeRecipient (storage)",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2021-10-tally-findings/issues/19"
+}
