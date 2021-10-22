@@ -1,0 +1,9 @@
+{
+  "contest": "Tally contest",
+  "handle": "pants",
+  "address": "0xdf8E030c3BE481be8aAd7D40F34A09524269266A",
+  "risk": "1",
+  "title": "`Swap.setFeeRecipient()` emits a `NewFeeRecipient` when the fee recipient hasn't changed",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2021-10-tally-findings/issues/67"
+}
