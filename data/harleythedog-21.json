@@ -1,0 +1,9 @@
+{
+  "contest": "Tally contest",
+  "handle": "harleythedog",
+  "address": "0xeFBFe9c6a66d871175d2B0ab35bc00255Aa36298",
+  "risk": "1",
+  "title": "Incorrect FeesSwept amount being emitted in sweepFees function",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2021-10-tally-findings/issues/21"
+}
