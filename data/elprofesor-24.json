@@ -1,0 +1,9 @@
+{
+  "contest": "Tally contest",
+  "handle": "elprofesor",
+  "address": "0xDA3Cf9e341A4C7ecf41070b074EaBDC5D433f159",
+  "risk": "1",
+  "title": "Goveranance does not implement transferOwnership",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2021-10-tally-findings/issues/24"
+}
