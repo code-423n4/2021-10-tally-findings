@@ -1,0 +1,9 @@
+{
+  "contest": "Tally contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "1",
+  "title": "Lack of input validationn for address array",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2021-10-tally-findings/issues/45"
+}
