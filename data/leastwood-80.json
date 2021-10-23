@@ -1,0 +1,9 @@
+{
+  "contest": "Tally contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "1",
+  "title": "`sweepFees()` `tokens.length` Can Overflow",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2021-10-tally-findings/issues/80"
+}
