@@ -1,3 +1,11 @@
+---
+sponsor: "Tally"
+slug: "2021-10-tally"
+date: "2021-11-19"
+title: "Tally contest"
+findings: "https://github.com/code-423n4/2021-10-tally-findings/issues"
+contest: 44
+---
 
 # Overview
 
